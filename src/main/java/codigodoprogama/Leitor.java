@@ -4,7 +4,7 @@ public class Leitor extends Usuario implements Acessarbiblioteca  {
 
     @Override
     public void visualizarLivros(){
-
+        System.out.println("ver livros");
     }
 
     @Override
