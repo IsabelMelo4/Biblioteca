@@ -31,7 +31,7 @@
             <Insets />
          </opaqueInsets>
          <children>
-            <Label alignment="CENTER" layoutX="6.0" layoutY="125.0" text="LOGIN" AnchorPane.leftAnchor="6.0" AnchorPane.rightAnchor="-6.0">
+            <Label alignment="CENTER" layoutX="6.0" layoutY="125.0" text="LOGIN" textFill="#fffdfd" AnchorPane.leftAnchor="6.0" AnchorPane.rightAnchor="-6.0">
                <font>
                   <Font size="45.0" />
                </font>
