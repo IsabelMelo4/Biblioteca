@@ -6,17 +6,18 @@
     );
 }
 .button-clear {
-    -fx-background-color: transparent
-    -fx-border-color: transparent
-    -fx-background-insets: 0
-    -fx-background-radius: 0
+    -fx-background-color: transparent !important;
+    -fx-border-color: transparent !important;
+    -fx-background-insets: 0 !important;
+    -fx-background-radius: 0 !important;
     -fx-text-fill: white;
 }
 
 .button-clear:hover {
-    -fx-background-color: rgba(255,255,255,0.15)
+    -fx-background-color: rgba(255,255,255,0.15) !important;
 }
 .card {
-    -fx-background-radius: 15;
-    -fx-padding: 15;
+    -fx-background-color: #FFFFFF20;
+    -fx-background-radius: 12;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.20), 10, 0, 0, 2);
 }
