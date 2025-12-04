@@ -1,15 +1,18 @@
-<h1>Bibliotec</h1>
+# Bibliotec
+ 
+O **Bibliotec** é um sistema que está sendo desenvolvido para simplificar a gestão de bibliotecas, automatizando o registro e o controle de livros. Com uma interface intuitiva, ele permite cadastrar, organizar e consultar livros de forma rápida e eficiente, tornando o trabalho de bibliotecários e estudantes muito mais prático.
 
-<p>Este projeto está sendo desenvolvido para facilitar na automação de registros
-de livros em bibliotecas.</p>
+## Tecnologias utilizadas
 
-<h1> Tecnologias ultilizadas até o momento</h1>
+- **Java** – Linguagem de programação principal  
+- **JavaFX** – Criação da interface gráfica  
+- **SceneBuilder** – Ferramenta para construção da interface visual  
 
-#Java 17
-#JavaFX
-#SceneBuilder (interface)
+## Autora
 
-<h1>Autora</h1>
-Isabel Melo - Desenvolvedora
+**Isabel Melo** – Desenvolvedora  
+
+---
+
 
 
